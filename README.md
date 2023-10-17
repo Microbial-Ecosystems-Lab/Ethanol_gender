@@ -1,4 +1,4 @@
-##Functional analysis for 16S sequencing data
+### Functional analysis for 16S sequencing data
 
 Data from "Ethanol consumption modulates the mouse gut microbiome in a drinking ethanol pattern- and sex-dependent manner"
 
